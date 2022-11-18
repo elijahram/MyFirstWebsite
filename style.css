@@ -8,3 +8,7 @@ div{
     height: 100px;
     background: red;
 }
+#box{
+    margin: 10px;
+    background: purple;
+}
