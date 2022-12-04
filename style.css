@@ -10,5 +10,8 @@ div{
 }
 #box{
     margin: 10px;
-    background: blueviolet;
+    background: pink;
+}
+table, tr, th {
+    border: 1px solid black;
 }
