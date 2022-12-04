@@ -12,6 +12,8 @@ div{
     margin: 10px;
     background: pink;
 }
-table, tr, th {
+table, tr, th, td {
+    width: 400px;
     border: 1px solid black;
+    text-align: left;
 }
